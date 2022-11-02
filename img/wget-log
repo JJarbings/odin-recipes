@@ -1,0 +1,11 @@
+--2022-11-02 02:38:27--  https://media.xxxlutz.com/i/xxxlutz/PIZvmF2LNjnsnpLv03jELNWg/?fmt=auto
+Resolving media.xxxlutz.com (media.xxxlutz.com)... 2a02:26f0:ce::216:908b, 2a02:26f0:ce::216:9068, 2.22.144.104, ...
+Connecting to media.xxxlutz.com (media.xxxlutz.com)|2a02:26f0:ce::216:908b|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 576021 (563K) [image/jpeg]
+Saving to: ‘index.html?fmt=auto’
+
+index.html?fmt=auto         0%[                                   ]       0  --.-KB/s               index.html?fmt=auto         8%[==>                                ]  49,24K   211KB/s               index.html?fmt=auto        18%[=====>                             ] 105,24K   223KB/s               index.html?fmt=auto        35%[===========>                       ] 201,24K   292KB/s               index.html?fmt=auto        65%[=====================>             ] 369,24K   410KB/s               index.html?fmt=auto       100%[==================================>] 562,52K   543KB/s    in 1,0s    
+
+2022-11-02 02:38:29 (543 KB/s) - ‘index.html?fmt=auto’ saved [576021/576021]
+
